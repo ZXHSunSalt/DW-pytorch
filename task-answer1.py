@@ -1,3 +1,4 @@
+#solve the problem of regression: the number of sample is 64, input layers 1000 dim,# hidden layer 100, output layer 10dim
 import torch
 
 num_samples = 64  # N
